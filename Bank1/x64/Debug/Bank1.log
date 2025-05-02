@@ -1,0 +1,7 @@
+﻿  Bank1.cpp
+C:\Users\ASHRAF\source\repos\Bank1\Bank1\Bank1.cpp(69,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\ASHRAF\source\repos\Bank1\Bank1\Bank1.cpp(307,37): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\ASHRAF\source\repos\Bank1\Bank1\Bank1.cpp(430,26): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\ASHRAF\source\repos\Bank1\Bank1\Bank1.cpp(752,3): warning C4551: function call missing argument list
+C:\Users\ASHRAF\source\repos\Bank1\Bank1\Bank1.cpp(505,1): warning C4715: 'PrintLoginscreen': not all control paths return a value
+  Bank1.vcxproj -> C:\Users\ASHRAF\source\repos\Bank1\x64\Debug\Bank1.exe
